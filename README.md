@@ -152,7 +152,7 @@ For the technical rationale behind this proof system, see [docs/STAMPED-whitepap
 
 If you want to see this built — subscription delivery in reusable packaging, zero waste, time returned to millions of households — you can back it directly.
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20this%20work-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/slavkostojnic)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20this%20work-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/earthcraft)
 
 Every contribution funds pilot planning, fleet simulation, and container prototyping. This is infrastructure that pays for itself — your support accelerates the timeline.
 
